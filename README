@@ -1,0 +1,11 @@
+This is a single script that creates a multi-page, wizard type, input screens. 
+
+The script must display at least 3 different pages. 
+
+Page #1 should allow the user fill in at least two text fields as well as one check box. 
+Page #2 should ask for 4 more fields to be entered. 
+The last page should display a summary screen of all the data in the first two pages but should not allow any modifications. 
+
+Add appropriate navigation buttons on the pages so the user can go back and correct any data as necessary.
+
+Develop the above using hidden fields on the forms.
